@@ -10,65 +10,49 @@ Currently building:
 - AI Debugging Assistant (VS Code extension)
 
 
-## LancerScape
-Blockchain-based freelance marketplace with escrow-backed payments.
+##LancerScape
 
-**Problem**  
-Freelancers often lack payment guarantees and dispute transparency.
+Blockchain escrow marketplace for freelancers.
 
-**Why existing solutions fall short**  
-- Platform-controlled escrow requires trust  
-- Disputes are opaque and biased  
-- Payments are delayed or manually released  
+- Core idea: Trustless, milestone-based payments
 
-**My approach**  
-- Smart-contract–based escrow with milestone releases  
-- Minimal backend to reduce trust surface  
-- Clear on-chain state for payment flow  
+- Why: Platform-controlled escrow requires blind trust
 
-**Tech**  
-Solidity · Next.js · REST APIs
+- Approach: Smart contracts + minimal backend
 
-**Status**  
-Active Development
+- Tech: Solidity · Next.js · REST
 
-<details>
-<summary>Design decisions</summary>
+- Status: Active
 
-- Used milestone-based escrow instead of lump-sum to reduce dispute impact  
-- Factory pattern for scalable contract deployment  
-- Accepted slower transaction finality as a tradeoff for trustlessness  
-- Dispute resolution intentionally deferred to later phase  
+<details> <summary>Design decisions</summary>
+
+- Milestone escrow to limit dispute impact
+
+- Factory pattern for scalable contract creation
+
+- Slower finality accepted for transparency
 
 </details>
 
-## AI Debugging Assistant (VS Code Extension)
-A developer tool that detects issues and blind spots instead of blindly generating code.
 
-**Problem**  
-AI code tools often generate syntactically correct but structurally flawed code.
+##AI Debugging Assistant
 
-**Why this matters**  
-- Developers over-trust AI output  
-- Bugs hide in architecture, not syntax  
-- Code quality degrades silently  
+VS Code extension focused on diagnostics, not code generation.
 
-**My approach**  
-- Analyze existing code instead of generating new code  
-- Flag anti-patterns, blind spots, and risky assumptions  
-- Preserve project structure and intent  
+- Core idea: Expose blind spots in AI-assisted code
 
-**Tech**  
-TypeScript · VS Code API · AI model integration
+- Why: AI tools optimize syntax, not structure
 
-**Status**  
-MVP / Iterating
+- Approach: Analyze existing code, flag risks
 
-<details>
-<summary>Design decisions</summary>
+- Tech: TypeScript · VS Code API · AI
 
-- Avoided full code generation to reduce hallucination risk  
-- Focused on diagnostics, not replacements  
-- Prioritized explainability over raw output  
+- Status: MVP
+
+<details> <summary>Design decisions</summary>
+
+- Avoided full code generation to reduce hallucinations
+
+- Prioritized explanations over raw output
 
 </details>
