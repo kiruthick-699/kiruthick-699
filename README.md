@@ -1,6 +1,6 @@
 # This is Kiruthick Kanna >.<
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=#fad502&center=true&vCenter=true&width=520&lines=Production-minded+systems+over+demo+apps" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=fad502&center=true&vCenter=true&width=520&lines=Production-minded+systems+over+demo+apps" />
 </p>
 
 I build production-minded systems — not demo apps.
