@@ -10,7 +10,7 @@ Currently building:
 - AI Debugging Assistant (VS Code extension)
 
 
-##LancerScape
+# LancerScape
 
 Blockchain escrow marketplace for freelancers.
 
@@ -35,7 +35,7 @@ Blockchain escrow marketplace for freelancers.
 </details>
 
 
-##AI Debugging Assistant
+# AI Debugging Assistant
 
 VS Code extension focused on diagnostics, not code generation.
 
