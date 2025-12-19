@@ -10,6 +10,7 @@ Currently building:
 - LancerScape (Blockchain escrow marketplace)
 - AI Debugging Assistant (VS Code extension)
 
+---
 
 ## LancerScape
 
@@ -58,9 +59,7 @@ VS Code extension focused on diagnostics, not code generation.
 
 </details>
 
-
-
-
+---
 
 ### How I Approach Engineering
 - Start from failure cases, not features  
