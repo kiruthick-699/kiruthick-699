@@ -35,7 +35,9 @@ Blockchain escrow marketplace for freelancers.
 
 </details>
 <details>
-<summary>Architecture</summary>
+<summary><strong>View architecture</strong></summary>
+
+<br/>
 
 <p align="center">
   <svg width="520" height="140" viewBox="0 0 520 140" xmlns="http://www.w3.org/2000/svg">
@@ -70,6 +72,7 @@ Blockchain escrow marketplace for freelancers.
 </p>
 
 </details>
+
 
 
 
