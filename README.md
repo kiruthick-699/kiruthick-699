@@ -63,4 +63,4 @@ VS Code extension focused on diagnostics, not code generation.
 
 
 ### How I Approach a Problem?
--- I usually erase everything and start from scratch. but i can't just do that everywhere. So, I'm still trying figure things out. lol
+-- I usually erase everything and start from scratch. but i can't just do that everywhere. So, I'm still trying to figure things out. lol
