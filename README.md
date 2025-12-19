@@ -1,13 +1,8 @@
 # This is Kiruthick Kanna >.<
 <p align="center">
-  <svg width="520" height="32" viewBox="0 0 520 32" xmlns="http://www.w3.org/2000/svg">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
-      fill="#00C853" font-size="18" font-family="Arial, Helvetica, sans-serif">
-      Production-minded systems over demo apps
-      <animate attributeName="opacity" from="0" to="1" dur="1.2s" fill="freeze" />
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=#fad502&center=true&vCenter=true&width=520&lines=Production-minded+systems+over+demo+apps" />
 </p>
+
 I build production-minded systems — not demo apps.
 
 CSE @ Chennai Institute of Technology  
