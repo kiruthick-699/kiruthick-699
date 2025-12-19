@@ -66,8 +66,7 @@ VS Code extension focused on diagnostics, not code generation.
 
 ---
 
-## Problem Solving
-- Solved 300+ problems on LeetCode  
+## Problem Solving 
 - Strong focus on arrays, strings, and sliding window patterns  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kiruthickkannaa?theme=light&font=Inter)
 
