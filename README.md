@@ -70,3 +70,7 @@ VS Code extension focused on diagnostics, not code generation.
 - Start from failure cases, not features  
 - Prefer simple systems that can evolve  
 - Make tradeoffs explicit instead of hiding them  
+
+
+—
+Building things I’d be willing to maintain.
