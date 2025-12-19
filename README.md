@@ -10,6 +10,11 @@ Currently building:
 - LancerScape (Blockchain escrow marketplace)
 - AI Debugging Assistant (VS Code extension)
 
+![Systems-first](https://img.shields.io/badge/Focus-Systems--First-fad502?style=flat)
+![Design](https://img.shields.io/badge/Emphasis-Design%20%26%20Tradeoffs-fad502?style=flat)
+
+
+
 ---
 
 ## LancerScape
