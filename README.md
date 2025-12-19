@@ -78,6 +78,7 @@ VS Code extension focused on diagnostics, not code generation.
 - Make tradeoffs explicit instead of hiding them  
 ---
 🔗 Links  
+- Portfolio site: https://kiruthicklocksin.vercel.app
 - LinkedIn: https://www.linkedin.com/in/kiruthickkannaa  
 - LeetCode: https://leetcode.com/kiruthickkannaa 
 ---
