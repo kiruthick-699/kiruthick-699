@@ -34,46 +34,6 @@ Blockchain escrow marketplace for freelancers.
 - Slower finality accepted for transparency
 
 </details>
-<details>
-<summary><strong>View architecture</strong></summary>
-
-<br/>
-
-<p align="center">
-  <svg width="520" height="140" viewBox="0 0 520 140" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <marker id="arrow" markerWidth="10" markerHeight="10" refX="6" refY="3" orient="auto">
-        <path d="M0,0 L0,6 L9,3 z" fill="#00C853"/>
-      </marker>
-    </defs>
-
-    <g fill="none" stroke="#00C853" stroke-width="2" marker-end="url(#arrow)">
-      <line x1="60" y1="70" x2="170" y2="70"/>
-      <line x1="190" y1="70" x2="300" y2="40"/>
-      <line x1="190" y1="70" x2="300" y2="100"/>
-      <line x1="320" y1="40" x2="450" y2="40"/>
-      <line x1="320" y1="100" x2="450" y2="100"/>
-    </g>
-
-    <g fill="#E6FFE6" stroke="#00C853" stroke-width="1.5">
-      <rect x="20" y="50" width="80" height="40" rx="6"/>
-      <rect x="120" y="50" width="80" height="40" rx="6"/>
-      <rect x="300" y="20" width="140" height="40" rx="6"/>
-      <rect x="300" y="80" width="140" height="40" rx="6"/>
-    </g>
-
-    <g fill="#0A1F14" font-size="12" text-anchor="middle" dominant-baseline="middle">
-      <text x="60" y="70">User</text>
-      <text x="160" y="70">Frontend</text>
-      <text x="370" y="40">Smart Contract</text>
-      <text x="370" y="100">Backend</text>
-    </g>
-  </svg>
-</p>
-
-</details>
-
-
 
 
 ## AI Debugging Assistant
