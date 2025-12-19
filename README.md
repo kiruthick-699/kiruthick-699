@@ -66,11 +66,21 @@ VS Code extension focused on diagnostics, not code generation.
 
 ---
 
+## Problem Solving
+- Solved 300+ problems on LeetCode  
+- Strong focus on arrays, strings, and sliding window patterns  
+![LeetCode Stats](https://leetcard.jacoblin.cool/kiruthickkannaa?theme=light&font=Inter)
+
+---
+
 ### How I Approach Engineering
 - Start from failure cases, not features  
 - Prefer simple systems that can evolve  
 - Make tradeoffs explicit instead of hiding them  
 ---
-
+🔗 Links  
+- LinkedIn: https://www.linkedin.com/in/your-linkedin  
+- LeetCode: https://leetcode.com/your-username  
+---
 —
 Building things I’d be willing to maintain.
