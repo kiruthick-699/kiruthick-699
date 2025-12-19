@@ -59,31 +59,5 @@ VS Code extension focused on diagnostics, not code generation.
 
 
 
-### How I Approach Engineering
-
-- Start from failure cases, not features
-
-- Prefer simple systems that can evolve
-
-- Avoid abstraction until repetition forces it
-
-- Make tradeoffs explicit
-
-### Constraints I Design Around
-
-- Limited trust in centralized components
-
-- Incomplete or changing requirements
-
-- Systems that must scale without rewrites
-
-### Current Focus
-
-- Frontend architecture with React
-
-- Backend authorization & RBAC
-
-- Understanding AI failure modes
-
-- Cloud deployment fundamentals
-
+### How I Approach a Problem?
+-- I usually erase everything and start from scratch. but i can't just do that everywhere. So, I'm still trying figure things out. lol
