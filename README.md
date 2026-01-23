@@ -1,4 +1,4 @@
-# Kiruthick Kannaa
+# Kiruthick Kannaa M
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=fad502&center=true&vCenter=true&width=520&lines=I+build+production-minded+systems+-+not+demo+apps." />
 </p>
